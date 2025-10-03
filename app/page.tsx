@@ -1,5 +1,7 @@
 import CheckerForm from "@/components/checker-form"
+import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { Github } from "lucide-react"
 
 export default function Home() {
 
@@ -8,6 +10,11 @@ export default function Home() {
       <header className="border-b">
         <div className="container mx-auto px-4 py-6">
           <h1 className="text-3xl font-bold">Website Link Checker</h1>
+          <div className="flex justify-end" style={{ marginTop: "-35px" }}>
+            <a href="https://github.com/tiago123456789/website-checker" target="_blank">
+              <Button className="cursor-pointer" variant="link"> Github </Button>
+            </a>
+          </div>
         </div>
       </header>
 
