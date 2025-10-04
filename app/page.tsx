@@ -31,6 +31,13 @@ export default function Home() {
                 sitemap entries. This allows you to quickly identify and review all accessible pages on your site,
                 ensuring your website structure is intact and all pages are discoverable.
               </p>
+              <p className="mt-2  text-muted-foreground">
+                <strong>Why is it important?</strong> Because if has broken links, it can have a bad user experience and you can lose new users or leads.
+              </p>
+
+              <p className="mt-2  text-muted-foreground">
+                <strong>PS:</strong> The tool does not store any data, it is free and open source.
+              </p>
             </CardContent>
           </Card>
         </div>

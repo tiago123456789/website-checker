@@ -1,30 +1,21 @@
-# Next.js app setup
+## ABOUT
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+This is a simple website link checker that uses the Firecrawl API to check all links from a website.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/tiagorosadacostas-projects/v0-next-js-app-setup)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/65ROcuaCeiW)
+## Why use this?
 
-## Overview
+- If you are a blog, website, SaaS or Micro-SaaS owner, you can use this tool to check all links from your website are working. Make sure all links are working and not broken. Why is it important? Because if has broken links, it can have a bad user experience and you can lose new users or leads.
+- It is free
+- It is open source
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
 
-## Deployment
+## HOW TO USE
 
-Your project is live at:
-
-**[https://vercel.com/tiagorosadacostas-projects/v0-next-js-app-setup](https://vercel.com/tiagorosadacostas-projects/v0-next-js-app-setup)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/65ROcuaCeiW](https://v0.app/chat/projects/65ROcuaCeiW)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+1. Go to [https://firecrawl.dev/](https://firecrawl.dev/)
+2. Get your API key from [https://firecrawl.dev/](https://firecrawl.dev/)
+3. Go to [https://vercel.com/](https://vercel.com/)
+4. Deploy this repository to Vercel
+5. Go to [https://vercel.com/](https://vercel.com/)
+6. Deploy this repository to Vercel
+7. Go to [https://vercel.com/](https://vercel.com/)
+8. Deploy this repository to Vercel
